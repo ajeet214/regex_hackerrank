@@ -1,7 +1,7 @@
 """
 Task
 
-You have a test string . Your task is to match the string hackerrank. This is case sensitive.
+You have a test string S. Your task is to match the string hackerrank. This is case sensitive.
 """
 Regex_Pattern = r'hackerrank'
 
