@@ -1,4 +1,7 @@
 """
+Author : Ajeet
+Date : 24/03/2023
+
 Task
 
 You have a test string S. Your task is to match the string hackerrank. This is case sensitive.
