@@ -2,6 +2,9 @@
 Author : Ajeet
 Date : 28/03/2023
 
+Parenthesis ( ) around a regular expression can group that part of regex together.
+(?: ) can be used to create a non-capturing group. It is useful if we do not need the group to capture its match.
+
 Task
 
 You have a test String S.
